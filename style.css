@@ -1,16 +1,26 @@
 *{
     box-sizing: border-box;
     
+
+    
+}
+header {
+    text-align: center;
+    color: white;
+    background-color: blue;
 }
 
 body {
     
-    font-size: 16px;
+    font-size: 24px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     
 }
-h3{
+
+
+h5{
     font-weight: bold;
+    color: red;
 }
 .forecast{
     
