@@ -1,7 +1,5 @@
 *{
-    box-sizing: border-box;
-    
-
+    box-sizing: border-box;  
     
 }
 header {
@@ -12,18 +10,20 @@ header {
 
 body {
     
-    font-size: 24px;
+    font-size: 16px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
+  
 }
-
+.card {
+    width:fit-content;
+}
 
 h5{
     font-weight: bold;
-    color: red;
+    
 }
 .forecast{
-    
+    width: 70%;
     font-size: 0.9em;
 }
 span{
