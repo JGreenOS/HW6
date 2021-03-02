@@ -33,4 +33,10 @@ This project uses dynamically updated HTML, Bootstrap, local storage in the brow
 
 https://github.com/JGreenOS/HW6/blob/master/screenshot%20of%20app%20for%20HW6.png
 
+## Next Steps
+In this assignment, I spent a great deal of time "reverse engineering" some sample code to deeply understand how all of the API parts and the dynamic html are working together. The script file represents specific comments related to this learning process. 
+Improvements include adding "tool-tips" for the weather icons and to add any weather alerts (such as watches/warnings) for the potential traveler.
+
+
+
 
