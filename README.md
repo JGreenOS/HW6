@@ -30,3 +30,7 @@ THEN I am presented with the last searched city forecast
 This project uses dynamically updated HTML, Bootstrap, local storage in the browser and the OpenWeatherMap API's.  API's include the daily forecast, the UV index lookup based on a translation of the city's assigned latitude and longitude and the 5 day forecast based on the 15:00 time point.
 
 ## Screenshot of completed app
+
+https://github.com/JGreenOS/HW6/blob/master/screenshot%20of%20app%20for%20HW6.png
+
+
